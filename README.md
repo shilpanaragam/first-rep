@@ -1,3 +1,3 @@
 # first-rep
 My first repository 
-this is in branch1
+merge branch1 to main
