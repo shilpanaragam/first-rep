@@ -1,3 +1,6 @@
 # first-rep
 My first repository 
-merge branch1 to main
+begin branch1
+  b1 line1
+  b1 line 2
+end branch1
