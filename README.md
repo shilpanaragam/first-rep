@@ -1,8 +1,7 @@
 # first-rep
 My first repository 
-begin main
-   
+
+begin main  
     main line1
-    main line2
-    
+    main line2   
 end main
