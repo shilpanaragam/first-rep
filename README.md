@@ -1,3 +1,8 @@
 # first-rep
 My first repository 
-this is main branch
+begin main
+   
+    main line1
+    main line2
+    
+end main
